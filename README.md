@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋, I'm Ali Raza
 
 ## 🚀 Languages & Tools
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
@@ -15,8 +15,7 @@
 - Kotlin
 
 ## 💬 Ask me about
-- C 
+- C
 - C++
 - JavaScript
 - HTML, CSS
-
